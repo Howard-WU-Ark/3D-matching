@@ -31,7 +31,7 @@ xxx (如果你写了自己的脚本来处理数据或进行可视化，请在这
 
 xxx. (这里放置来自你最终匹配结果的截图， 如
 
-![image](img/pose2carton.png))
+![image](img/pose2carton.png)
 
 
 
